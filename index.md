@@ -9,6 +9,6 @@
     - PSO sessions will be very helpful when im confused
     - Only cool classes use Ed Discussion 😎
 
-#### The website needs more content
+#### Important notice to the person grading
 
-So to fill up the website below is one paragraph of lorem ipsum text :)
+##### The chosen theme look adds a # to the end of every title and to be honest it looks good. It was not a formatting issue I promise :)
